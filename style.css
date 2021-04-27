@@ -84,3 +84,6 @@ html {
 .article:hover {
     background-color: dodgerblue;
 }
+li {
+  display: inline;
+}
